@@ -1,4 +1,4 @@
-Resolução do Teste de SQL 
+Resolução do Teste de banco de dados  em MySQL da NexEnergy
 
 
 1º PASSO: Utilizando o arquivo encaminhado "base_teste.csv", carregue as informações em uma tabela de banco MySQL ou PostgreSQL e envie o código utilizado no processo. Configurar o nome do Schema como "teste" e a tabela como "base_teste".
