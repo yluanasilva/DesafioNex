@@ -1,4 +1,6 @@
 Resolução do Teste de SQL 
+
+
 1º PASSO: Utilizando o arquivo encaminhado "base_teste.csv", carregue as informações em uma tabela de banco MySQL ou PostgreSQL e envie o código utilizado no processo. Configurar o nome do Schema como "teste" e a tabela como "base_teste".
 
 2º PASSO: Enviar as queries utilizadas em linguagem MySQL ou PostgreSQL para cada uma das solicitações abaixo. Não há necessidade de envio do resultado. Todo e qualquer tratamento na base deve ser realizado via query e não diretamente na fonte de dados.
